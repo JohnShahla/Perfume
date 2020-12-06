@@ -1,0 +1,12 @@
+to add img to gallery
+send POST request to admin/addGallery 
+with {
+    imgURL : String required,
+    name : String required
+}
+
+response : 200 sucess
+400 failure
+
+
+tested : false

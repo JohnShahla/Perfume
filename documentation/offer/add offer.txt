@@ -1,0 +1,13 @@
+add offer functionality 
+
+1- request names 
+    request names from /productNames
+    request names from /privateProductNames
+
+
+2- response is 
+
+
+
+
+3- request to add offer

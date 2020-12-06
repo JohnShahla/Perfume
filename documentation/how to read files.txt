@@ -1,0 +1,13 @@
+in each folder there is the functionlaity for it
+A before any name means it's an Admin functionlaity and has /Admin
+
+
+
+/gallery method = post, requires Auth, needs String name and String imgURL 
+/gallery method = delete, requires Auth, needs _id of the object to delete
+/gallery method = get, fetches all images fixxxxxxxxxxxxxxxx
+
+
+
+end of Documentaion 
+John Shahla

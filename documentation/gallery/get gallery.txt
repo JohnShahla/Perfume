@@ -1,0 +1,11 @@
+to get gallery send GET request to /gallery
+
+result is 
+(list of images)
+image {
+    imgURL: String,
+    name: String
+}
+
+sucess status 200
+failure 400
