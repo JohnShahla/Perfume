@@ -43,7 +43,7 @@ app.use('/admin',adminRoutes);
 app.use(shopRoutes);
 
 
-mongo.connect('mongodb+srv://admin:adminlolxd@cluster0.3poep.mongodb.net/TestProject?retryWrites=true&w=majority').then(results =>{
+mongo.connect('').then(results =>{
     app.listen(8080);
     //console.log(results);
 
